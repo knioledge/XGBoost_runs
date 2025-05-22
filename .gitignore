@@ -1,0 +1,27 @@
+# Byte-compiled  cache
+__pycache__
+.py[cod]
+.so
+
+# Jupyter
+.ipynb_checkpoints
+
+# Conda  venv
+.env
+.venv
+.egg-info
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs & data
+.log
+.csv
+.tsv
+.parquet
+.h5
+
+# Models
+.pkl
+.joblib
